@@ -10367,7 +10367,7 @@ Transform:
   m_GameObject: {fileID: 1375325317}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.48, y: 0.58, z: 0.9}
+  m_LocalPosition: {x: 0.466, y: 0.58, z: 0.9}
   m_LocalScale: {x: 0.1, y: 1.18, z: 0.1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14380,7 +14380,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 2.24
-  MinDistance: 1
+  MinDistance: 1.6137674
   MaxDistance: 10
   Pan2D: 0
   rolloffMode: 0
@@ -15455,7 +15455,7 @@ MonoBehaviour:
   m_TimeToAutoDeselect: 3
   m_EnableUIInteraction: 1
   m_AllowAnchorControl: 1
-  m_UseForceGrab: 1
+  m_UseForceGrab: 0
   m_RotateSpeed: 180
   m_TranslateSpeed: 1
   m_AnchorRotateReferenceFrame: {fileID: 0}
